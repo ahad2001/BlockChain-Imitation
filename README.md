@@ -20,7 +20,7 @@ Block is added and being mined
 
 Checking the validity of the entire blockchain
 
-https://github.com/ahad2001/BlockChain-Imitation/blob/main/BlockChain/Blockchain%20validity.jpg
+https://raw.githubusercontent.com/ahad2001/BlockChain-Imitation/main/BlockChain/Blockchain%20validity.jpg
 
 Displaying the Blockchain to the ADMIN
 
