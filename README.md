@@ -1,5 +1,5 @@
 # BlockChain-Imitation
-This project is a simple implementation of BlockChain Technology,developed with the core features of BlockChain Technology. 
+####This project is a simple implementation of BlockChain Technology,developed with the core features of BlockChain Technology. 
 ## Authors
 - [@ahad2001](https://github.com/ahad2001)
 
