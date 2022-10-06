@@ -15,12 +15,19 @@ Detecting Validity : To check the validity of the entire blockchain, CHECKVALIDI
 
 ## Console Output 
 Block is added and being mined 
+
 ![Blockchain mining](https://user-images.githubusercontent.com/81913695/194234229-19692d16-c2d5-4160-b271-fffc20be6922.jpg)
+
+Checking the validity of the entire blockchain
+
+https://github.com/ahad2001/BlockChain-Imitation/blob/main/BlockChain/Blockchain%20validity.jpg
+
+Displaying the Blockchain to the ADMIN
+
+https://github.com/ahad2001/BlockChain-Imitation/blob/main/BlockChain/Blockchain.jpg
 
 ## Potential feautures 
 This project is well rounded for now but I have a plan for adding gui function in here and also make it like a real life blockchain which would be accessible as ADMIN AND USERS where they can enter data,make transactions,edit data and check the validity.
-
-
 
 
 ## Authors
