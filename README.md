@@ -20,11 +20,11 @@ Block is added and being mined
 
 Checking the validity of the entire blockchain
 
-https://raw.githubusercontent.com/ahad2001/BlockChain-Imitation/main/BlockChain/Blockchain%20validity.jpg
+![ss](https://raw.githubusercontent.com/ahad2001/BlockChain-Imitation/main/BlockChain/Blockchain%20validity.jpg)
 
 Displaying the Blockchain to the ADMIN
 
-https://github.com/ahad2001/BlockChain-Imitation/blob/main/BlockChain/Blockchain.jpg
+![ss](https://github.com/ahad2001/BlockChain-Imitation/blob/main/BlockChain/Blockchain.jpg)
 
 ## Potential feautures 
 This project is well rounded for now but I have a plan for adding gui function in here and also make it like a real life blockchain which would be accessible as ADMIN AND USERS where they can enter data,make transactions,edit data and check the validity.
